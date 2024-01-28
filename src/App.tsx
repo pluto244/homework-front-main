@@ -1,4 +1,3 @@
-import React from 'react';
 import './App.css';
 import { HW1 } from './HW/1/HW1';
 import { HW2 } from './HW/2/HW2';

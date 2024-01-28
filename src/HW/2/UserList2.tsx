@@ -1,5 +1,3 @@
-import React from 'react';
-
 import { CurrentUser } from './CurrentUser';
 import { UsersObjectType } from './HW2';
 
