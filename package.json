@@ -2,7 +2,10 @@
   "name": "pre-homeworks",
   "version": "0.1.0",
   "private": true,
+<<<<<<< HEAD
   "homepage": "https://pluto244.github.io/homework-front-main/",
+=======
+>>>>>>> 705fd64 (Initial Commit)
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
@@ -11,7 +14,10 @@
     "@types/node": "^16.7.13",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
+<<<<<<< HEAD
     "gh-pages": "^6.3.0",
+=======
+>>>>>>> 705fd64 (Initial Commit)
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
@@ -19,8 +25,11 @@
     "web-vitals": "^2.1.0"
   },
   "scripts": {
+<<<<<<< HEAD
     "predeploy": "yarn build",
     "deploy": "gh-pages -b gh-pages -d build",
+=======
+>>>>>>> 705fd64 (Initial Commit)
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
